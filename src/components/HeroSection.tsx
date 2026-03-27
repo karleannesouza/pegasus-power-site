@@ -37,16 +37,10 @@ const HeroSection = () => {
           reais. Venha fazer parte da nossa comunidade.
         </p>
 
-        {/* --- NOVAS LINHAS ADICIONADAS --- */}
-        <h2 className="text-2xl font-bold animate-fade-up [animation-delay:0.35s]">
-          Agende uma aula experimental
-        </h2>
-
-        <p className="text-sm text-gray-300 mt-2 mb-6 animate-fade-up [animation-delay:0.38s]">
-          3 aulas experimentais gratuitas
+          <h2 className="text-2xl font-bold animate-fade-up [animation-delay:0.35s]">
+          Você tem 3 aulas experimentais gratuitas!
+  
         </p>
-        {/* -------------------------------- */}
-
         <a
           href="https://wa.me/5500000000000?text=Olá! Gostaria de agendar uma aula experimental."
           target="_blank"
