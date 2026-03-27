@@ -49,7 +49,7 @@ const HeroSection = () => {
           rel="noopener noreferrer"
           className="inline-block bg-primary text-primary-foreground font-heading text-lg md:text-xl tracking-wider px-10 py-4 rounded-md hover:brightness-110 transition-all animate-pulse-glow animate-fade-up [animation-delay:0.45s]"
         >
-          AGENDE SUA AULA
+          AGENDE AGORA
         </a>
       </div>
     </section>
