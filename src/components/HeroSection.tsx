@@ -29,7 +29,9 @@ const HeroSection = () => {
         <h1 className="font-heading text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-bold text-foreground leading-tight mb-6 animate-fade-up [animation-delay:0.15s] text-center">
   DESPERTE A SUA
   <br />
-  <span className="text-primary text-glow">FORÇA NA PEGASUS</span>
+  <span className="text-primary text-glow">
+    FORÇA NA PEGASUS
+  </span>
 </h1>
 
         <p className="text-muted-foreground text-base md:text-lg max-w-2xl mx-auto mb-10 animate-fade-up [animation-delay:0.3s] font-body">
