@@ -39,7 +39,7 @@ const HeroSection = () => {
 
     
         <h2 className="text-2xl font-bold animate-fade-up [animation-delay:0.35s]">
-          Você tem 3 aulas experimentais gratuitas
+         3 aulas experimentais gratuitas
           
         </h2>
         
@@ -49,7 +49,7 @@ const HeroSection = () => {
           rel="noopener noreferrer"
           className="inline-block bg-primary text-primary-foreground font-heading text-lg md:text-xl tracking-wider px-10 py-4 rounded-md hover:brightness-110 transition-all animate-pulse-glow animate-fade-up [animation-delay:0.45s]"
         >
-          AGENDE PELO WHATSAPP
+          AGENDE SUA AULA
         </a>
       </div>
     </section>
