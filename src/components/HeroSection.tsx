@@ -38,7 +38,6 @@ const HeroSection = () => {
           Transforme seu corpo e sua mente com treinos dinâmicos e resultados
           reais. Venha fazer parte da nossa comunidade.
         </p>
-
     
         <h2 className="text-2xl font-bold animate-fade-up [animation-delay:0.35s]">
          3 aulas experimentais gratuitas
