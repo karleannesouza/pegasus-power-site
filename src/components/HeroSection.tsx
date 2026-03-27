@@ -39,9 +39,9 @@ const HeroSection = () => {
           reais. Venha fazer parte da nossa comunidade.
         </p>
     
-        <p className="text-sm text-gray-600 mt-0 mb-2 -mt-4 text-center">
-  3 aulas experimentais gratuitas
-</p>
+        <p className="text-sm text-gray-600 mt-4 mb-2 -mt-4 text-center">
+          3 aulas experimentais gratuitas
+        </p>
         
         <a
           href="https://wa.me/5500000000000?text=Olá! Gostaria de agendar uma aula experimental."
