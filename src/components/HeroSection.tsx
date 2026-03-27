@@ -40,6 +40,7 @@ const HeroSection = () => {
     
         <h2 className="text-2xl font-bold animate-fade-up [animation-delay:0.35s]">
           Você tem 3 aulas experimentais gratuitas
+          
         </h2>
         
         <a
