@@ -44,7 +44,7 @@ const HeroSection = () => {
         </h2>
         
         <a
-          href="https://wa.me/5500000000000?text=Olá! Gostaria de agendar uma aula experimental."
+          href="https://wa.me/5585981985465?text=Olá! Gostaria de agendar uma aula experimental."
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-primary text-primary-foreground font-heading text-lg md:text-xl tracking-wider px-10 py-4 rounded-md hover:brightness-110 transition-all animate-pulse-glow animate-fade-up [animation-delay:0.45s] mt-6"
